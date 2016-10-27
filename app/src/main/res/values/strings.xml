@@ -2,6 +2,7 @@
     <string name="app_name">Guess My Age</string>
     <string name="min_age">Min Age</string>
     <string name="max_age">Max Age</string>
-    <string name="estimate_age">Estimate Age</string>
+    <string name="estimate_age">Age</string>
     <string name="gender">Gender</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
 </resources>
