@@ -3,4 +3,19 @@
     <color name="colorPrimaryDark">#FF6F00</color>
     <color name="colorPrimary">#FF8F00</color>
     <color name="colorAccent">#FFB300</color>
+
+    <!--button focus-->
+    <color name ="focus_top">#FFB74D</color>
+    <color name="focus_mid">#FFCC80</color>
+    <color name="focus_bottom">#FFE0B2</color>
+
+    <!--button unfocus/ori-->
+    <color name="unfocus_top">#FFA726</color>
+    <color name="unfocus_mid">#F57C00</color>
+    <color name="unfocus_bottom">#F57C00</color>
+
+    <!--button press-->
+    <color name="press_top">#FB8C00</color>
+    <color name="press_mid">#FF9800</color>
+    <color name="press_bottom">#FFA726</color>
 </resources>
